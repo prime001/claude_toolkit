@@ -3,21 +3,16 @@
     "allow": [
       "Bash(grep:*)",
       "Bash(wc:*)",
-      "Bash(git -C /home/primex001/Scripts/NSO_Reconciliation log --oneline -20)",
       "Bash(ls:*)",
       "Bash(done)",
       "Bash(git checkout:*)",
       "Bash(python -m pytest:*)",
       "Bash(python3 -m pytest:*)",
-      "Bash(/home/primex001/Scripts/NSO_Reconciliation/venv/bin/python -m pytest:*)",
       "Bash(pip show:*)",
-      "Bash(/home/primex001/Scripts/NSO_Reconciliation/.venv/bin/python -m pytest tests/ -q)",
       "Bash(find:*)",
       "Bash(pip3 list:*)",
       "Bash(venv/bin/python:*)",
       "Bash(python3:*)",
-      "Read(//home/primex001/Scripts/ione_ztp/**)",
-      "Read(//home/primex001/**)",
       "Bash(mkdir:*)",
       "Bash(chmod +x:*)"
     ]
